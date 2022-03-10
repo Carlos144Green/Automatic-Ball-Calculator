@@ -3,6 +3,6 @@ The Automatic Ball Calculator helps reduce the amount of bad pool table players 
 
   
 <p align="center">
-  <img src=![1605066127433](https://user-images.githubusercontent.com/60107217/157747873-d64222cc-95ee-4fc0-967f-d2d57d96552d.gif) />
+  <img src="https://user-images.githubusercontent.com/60107217/157747873-d64222cc-95ee-4fc0-967f-d2d57d96552d.gif" />
 </p>
 
